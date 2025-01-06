@@ -1,0 +1,81 @@
+{
+  "testimonials": {
+    "title": "Loved by Professionals",
+    "subtitle": "See what our users are saying about MainFocus",
+    "items": [
+      {
+        "name": "Sarah Johnson",
+        "role": "Software Engineer",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150",
+        "quote": "MainFocus has transformed how I manage my work day. The AI insights are incredibly helpful.",
+        "rating": 5
+      },
+      {
+        "name": "Michael Chen",
+        "role": "Product Designer",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150&h=150",
+        "quote": "The gamification aspect makes staying focused actually fun. I've improved my productivity by 40%.",
+        "rating": 5
+      }
+    ]
+  },
+  "founder": {
+    "name": "Romany",
+    "role": "Founder of MainFocus",
+    "image": "/romany-cristams.jpg",
+    "story": {
+      "intro": "Hey, I'm Romany 👋",
+      "description": "In 2024, I started building MainFocus—a platform designed to help people like you focus on what truly matters.",
+      "mission": [
+        "Reduce friction with my phone during focus sessions",
+        "Stay in the zone and crush my goals",
+        "Simplify workflows for meaningful outcomes"
+      ]
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "contact": {
+      "text": "Have another question? Contact me by",
+      "email": "support@main-focus.app"
+    },
+    "items": [
+      {
+        "question": "What is MainFocus?",
+        "answer": "MainFocus is an app that helps you improve your productivity using Pomodoro timers and AI to track your focus. It awards points for staying focused and lets you compete with friends."
+      },
+      {
+        "question": "How does MainFocus track my focus?",
+        "answer": "MainFocus uses your device's camera to analyze your focus state with AI. The app ensures privacy by processing all data locally without storing video or personal data."
+      }
+    ]
+  },
+  "footer": {
+    "social": [
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com/mainfocus",
+        "icon": "Twitter"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/mainfocus",
+        "icon": "Linkedin"
+      }
+    ],
+    "links": [
+      {
+        "name": "Contact",
+        "url": "#contact"
+      },
+      {
+        "name": "Privacy Policy",
+        "url": "/privacy"
+      },
+      {
+        "name": "Terms of Service",
+        "url": "/terms"
+      }
+    ]
+  }
+}
